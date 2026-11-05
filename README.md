@@ -2,4 +2,4 @@
 projet C++Gestion du campus
 ## compilation
 cmake -b
-cmake --build buildl
+cmake --build build
