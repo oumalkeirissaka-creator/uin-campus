@@ -7,6 +7,18 @@
 },
 {
   "directory": "/home/ma/uin-campus/build/debug",
+  "command": "/usr/bin/g++-14 -DUIN_VERSION=\\\"0.1.0\\\" -I/home/ma/uin-campus/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles/uincampus_core.dir/src/regles.cpp.o -c /home/ma/uin-campus/src/regles.cpp",
+  "file": "/home/ma/uin-campus/src/regles.cpp",
+  "output": "CMakeFiles/uincampus_core.dir/src/regles.cpp.o"
+},
+{
+  "directory": "/home/ma/uin-campus/build/debug",
+  "command": "/usr/bin/g++-14 -DUIN_VERSION=\\\"0.1.0\\\" -I/home/ma/uin-campus/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles/uincampus_core.dir/src/saisie.cpp.o -c /home/ma/uin-campus/src/saisie.cpp",
+  "file": "/home/ma/uin-campus/src/saisie.cpp",
+  "output": "CMakeFiles/uincampus_core.dir/src/saisie.cpp.o"
+},
+{
+  "directory": "/home/ma/uin-campus/build/debug",
   "command": "/usr/bin/g++-14 -I/home/ma/uin-campus/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles/uin_campus.dir/app/main.cpp.o -c /home/ma/uin-campus/app/main.cpp",
   "file": "/home/ma/uin-campus/app/main.cpp",
   "output": "CMakeFiles/uin_campus.dir/app/main.cpp.o"
